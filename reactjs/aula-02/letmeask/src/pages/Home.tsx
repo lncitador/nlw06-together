@@ -28,7 +28,7 @@ export function Home() {
               placeholder="Enter the code of the room"
             />
             <Button type="submit">
-              Entrar na sala
+              Enter the room
             </Button>  
           </form>
         </div>
